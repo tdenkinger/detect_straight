@@ -1,3 +1,5 @@
+# This is the solution Camille Baldock showed in the video
+
 module HandEvaluator
   class Consec
     def straight cards

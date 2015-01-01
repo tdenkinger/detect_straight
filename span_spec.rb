@@ -1,3 +1,5 @@
+# This is my "improved" version after watching the video and thinking about the problem
+
 module HandEvaluator
   class Span
     def straight cards

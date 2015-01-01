@@ -1,3 +1,4 @@
+# This is the solution shown by Tom Stuart in his RubyConf talk
 # https://www.youtube.com/watch?v=tJkoHFjoMuk
 
 module HandEvaluator
